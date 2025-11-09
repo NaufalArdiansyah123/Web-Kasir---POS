@@ -1,4 +1,4 @@
-# 🏪 WE-KASIR - Point of Sale System
+# 🏪 Web-KASIR - Point of Sale System
 
 Sistem Point of Sale (POS) modern yang dibangun dengan Laravel 10 dan Tailwind CSS untuk mengelola penjualan, stok produk, dan laporan penjualan.
 
